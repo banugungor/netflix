@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(./projects/001-survey-form/background_image.jpg);
+
+  height: 100vh;
+  text-align: center;
+}
+
+
+
+}
+.container {
+  left: 100px;
+  top: 30px;
+}
+
+/* header p {
+  color: #ffffff;
+  left: 6.94%;
+  right: 6.94%;
+  top: 4.11%;
+  bottom: 89.05%;
+  font-size: 50px;
+} */
+
+header {position: absolute;
+    width: 1240px;
+    height: 90px;
+    left: 100px;
+    top: 30px;
+}
+
+span .net {
+    font-family: bowlby one;
+  
+}
+
+span .flix {}
+
+header h1 {
+}
+
+header h3 {
+}
+
+main {
+}
+
+form {
+}
+
+div .box {
+}
+
+div .box p {
+}
+
+div .box label {
+}
+
+div .box input {
+}
+
+div .box select {
+}
+
+div .box option {
+}
+
+div.box button {
+}
+
+button {
+}
+
+.container-box {
+  position: absolute;
+  left: 6.94%;
+  right: 6.94%;
+  top: 2.74%;
+  bottom: 2.74%;
+
+  background: #000000;
+  opacity: 0.3;
+}
